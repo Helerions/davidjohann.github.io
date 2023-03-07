@@ -1,5 +1,5 @@
 ---
-title: Monsupersite
+title: Mon super site
 ---
 
 - [Introduction](introduction.md)

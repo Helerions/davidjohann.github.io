@@ -1,5 +1,5 @@
 ---
-title: Mon super site
+title: Monsupersite
 ---
 
 TODOtodo

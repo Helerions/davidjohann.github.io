@@ -1,3 +1,7 @@
+---
+title: Mon super site
+---
+
 # Intro
 
 ma super intro
